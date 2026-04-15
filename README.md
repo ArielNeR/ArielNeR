@@ -3,7 +3,7 @@
 # Héctor Ariel García Matute
 ### Android Developer · IT Engineer · Indie Studio Founder
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arielner)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/héctor-ariel-garcía-matute-967308239)
 [![Portfolio](https://img.shields.io/badge/Portfolio-singleseven.lat-111?style=flat&logo=firefox&logoColor=white)](https://www.singleseven.lat)
 [![Play Store](https://img.shields.io/badge/Google_Play-Single_Seven-00875F?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6555616028653190954)
 
@@ -17,11 +17,11 @@ Ingeniero IT graduado de la **Universidad Técnica de Machala (UTMACH)**. Fundad
 
 ## Apps publicadas en Google Play
 
-| App | Descripción | Stack |
-|-----|-------------|-------|
-| [**WalletWise**](https://play.google.com/store/apps/details?id=com.walletwise.app) | Finanzas personales — presupuestos, widgets, gráficos, transacciones recurrentes | Kotlin · Compose · Room · AdMob |
-| [**VolumeX**](https://play.google.com/store/apps/details?id=com.singleseven.controlvolumen) | Control flotante de volumen con estimación dB y alertas de audición | Kotlin · AudioManager · Overlay |
-| [**BroPlay**](https://play.google.com/store/apps/details?id=com.broplay.app) | Cliente Jellyfin para Android y Android TV | Kotlin · FastAPI · Leanback |
+| | App | Descripción | Stack |
+|:-:|-----|-------------|-------|
+| <img src="https://play-lh.googleusercontent.com/pRk0K_jMgJcJ80Ms2QjjRazY5SxU1v1xvXM576UOvl62wLIWOz_rVXQqpHK3fM7uLWOrdXQ4UWXHOXLpKF1E=w240-h480-rw" width="40" /> | [**WalletWise**](https://play.google.com/store/apps/details?id=com.walletwise.app) | Finanzas personales — presupuestos, widgets, gráficos, transacciones recurrentes | Kotlin · Compose · Room · AdMob |
+| <img src="https://play-lh.googleusercontent.com/XdfNTM5CrIakEnt0oL5uu6XPkeRY1LbCQYN_-x4rmGQuwfBImRxItrAOCN2O4xTv9BYJtpYbN1Sw_mvlzwDP=w240-h480-rw" width="40" /> | [**VolumeX**](https://play.google.com/store/apps/details?id=com.singleseven.controlvolumen) | Control flotante de volumen con estimación dB y alertas de audición | Kotlin · AudioManager · Overlay |
+| <img src="https://play-lh.googleusercontent.com/EgCzm0Azb6nKJJ-InOTnRPDlUS5DIxUe4cXKz51tsJMCcIkaS0QHZqdAi9k7arIqQ4rXYI6mcxjhUWH9C7wD35c=w240-h480-rw" width="40" /> | [**BroPlay**](https://play.google.com/store/apps/details?id=com.broplay.app) | Cliente Jellyfin para Android y Android TV | Kotlin · FastAPI · Leanback |
 
 ---
 
@@ -48,17 +48,6 @@ Ingeniero IT graduado de la **Universidad Técnica de Machala (UTMACH)**. Fundad
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArielNeR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0F&title_color=00E5A0&icon_color=7C6BFF&text_color=8A8A9E" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielNeR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0F&title_color=00E5A0&text_color=8A8A9E" alt="Top Languages" height="170" />
-</div>
-
-> Si las tarjetas no se muestran, es porque el servicio `github-readme-stats.vercel.app` tiene rate limiting con la API de GitHub. La solución definitiva es [desplegar tu propia instancia gratuita en Vercel](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).
 
 ---
 
